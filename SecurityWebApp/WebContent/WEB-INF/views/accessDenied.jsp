@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Access Denied</title>
 </head>
 <body>
  <jsp:include page="_menu.jsp"></jsp:include>

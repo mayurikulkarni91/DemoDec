@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Login</title>
 </head>
 <body>
 <jsp:include page="_menu.jsp"></jsp:include>   
  
-      <h3>Login Page</h3>
+      <h3>User Login</h3>
  
       <p style="color: red;">${errorString}</p>
  

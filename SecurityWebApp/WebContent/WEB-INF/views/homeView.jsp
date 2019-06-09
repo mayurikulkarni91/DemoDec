@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Home</title>
 </head>
 <body>
  <jsp:include page="_menu.jsp"></jsp:include>
     
-      <h3>Home Page</h3>
+      <h3>Welcome... This is home page.......</h3>
 </body>
 </html>

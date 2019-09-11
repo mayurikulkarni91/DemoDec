@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Home Page</title>
+<title>Menu Page</title>
 </head>
 <body>
 <a href="${pageContext.request.contextPath}/employeeTask">
